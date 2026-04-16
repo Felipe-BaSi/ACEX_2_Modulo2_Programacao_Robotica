@@ -8,9 +8,9 @@ O objetivo deste módulo é capacitar os alunos na criação da lógica de contr
 Desenvolver a "inteligência" do robô, permitindo que ele interprete dados do ambiente através de sensores e execute movimentos precisos através de atuadores.
 
 ### Destaques Técnicos:
-* [cite_start]**Controlo via PWM:** Ajuste refinado da velocidade dos motores para garantir curvas suaves e estabilidade [cite: 82-84].
-* [cite_start]**Percepção Sensorial:** Diferenciação entre sensores e atuadores, com foco em sensores de refletância infravermelha (IR) [cite: 114-118].
-* [cite_start]**Lógica Condicional:** Implementação de algoritmos de decisão em C++ para navegação autónoma [cite: 98-101].
+**Controlo via PWM:** Ajuste refinado da velocidade dos motores para garantir curvas suaves e estabilidade.
+**Percepção Sensorial:** Diferenciação entre sensores e atuadores, com foco em sensores de refletância infravermelha (IR).
+**Lógica Condicional:** Implementação de algoritmos de decisão em C++ para navegação autónoma.
 
 ## Estrutura do Repositório
 O projeto está organizado por aulas para facilitar o acompanhamento do conteúdo:
