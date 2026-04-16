@@ -4,7 +4,7 @@ Este repositório contém o material de desenvolvimento, esquemas e códigos-fon
 
 O objetivo deste módulo é capacitar os alunos na criação da lógica de controlo de um sistema autónomo, utilizando a plataforma Arduino e simulações no Tinkercad.
 
-## Objetivo do Módulo
+## 🎯 Objetivo do Módulo
 Desenvolver a "inteligência" do robô, permitindo que ele interprete dados do ambiente através de sensores e execute movimentos precisos através de atuadores.
 
 ### Destaques Técnicos:
@@ -12,14 +12,14 @@ Desenvolver a "inteligência" do robô, permitindo que ele interprete dados do a
 **Percepção Sensorial:** Diferenciação entre sensores e atuadores, com foco em sensores de refletância infravermelha (IR).
 **Lógica Condicional:** Implementação de algoritmos de decisão em C++ para navegação autónoma.
 
-## Estrutura do Repositório
+## 📂 Estrutura do Repositório
 O projeto está organizado por aulas para facilitar o acompanhamento do conteúdo:
 
 * **`/Aula_01`**: Introdução ao Arduino, estrutura do código (`setup` e `loop`) e lógica fundamental.
 * **`/Aula_02`**: Leitura de sinais analógicos, calibragem de sensores e domínio da técnica de PWM.
 * **`/Aula_03`**: Projeto Final Integrador - Montagem e código completo do robô seguidor de linha.
 
-## Integrantes do Grupo
+## 👥 Integrantes do Grupo
 * **Felipe Barbosa Silveira**
 * **Otávio José Moreira Neto**
 * **Pedro Herick Gomes Reis**
